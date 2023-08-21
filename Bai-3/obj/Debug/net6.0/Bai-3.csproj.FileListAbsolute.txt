@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\GitHub\Net-development\Bai-3\bin\Debug\net6.0\Bai-3.exe
+C:\Users\ASUS\Documents\GitHub\Net-development\Bai-3\bin\Debug\net6.0\Bai-3.deps.json
+C:\Users\ASUS\Documents\GitHub\Net-development\Bai-3\bin\Debug\net6.0\Bai-3.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\Net-development\Bai-3\bin\Debug\net6.0\Bai-3.dll
+C:\Users\ASUS\Documents\GitHub\Net-development\Bai-3\bin\Debug\net6.0\Bai-3.pdb
+C:\Users\ASUS\Documents\GitHub\Net-development\Bai-3\obj\Debug\net6.0\Bai-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\Net-development\Bai-3\obj\Debug\net6.0\Bai-3.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\Net-development\Bai-3\obj\Debug\net6.0\Bai-3.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\Net-development\Bai-3\obj\Debug\net6.0\Bai-3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\Net-development\Bai-3\obj\Debug\net6.0\Bai-3.dll
+C:\Users\ASUS\Documents\GitHub\Net-development\Bai-3\obj\Debug\net6.0\refint\Bai-3.dll
+C:\Users\ASUS\Documents\GitHub\Net-development\Bai-3\obj\Debug\net6.0\Bai-3.pdb
+C:\Users\ASUS\Documents\GitHub\Net-development\Bai-3\obj\Debug\net6.0\Bai-3.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GitHub\Net-development\Bai-3\obj\Debug\net6.0\ref\Bai-3.dll
